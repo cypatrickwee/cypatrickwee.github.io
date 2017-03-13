@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CHUN YOONG KWEE
 
 You can use the [editor on GitHub](https://github.com/cypatrickwee/cypatrickwee.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
